@@ -12,3 +12,4 @@
 ## 9 passo, digitar "git add . "
 ## 10 passo, digitar "git commit -m *alteração feita*"
 ## 11 passo, digitar "git push -u origin main"
+### O comando "pull" tras as informações do github para a maquina local.
